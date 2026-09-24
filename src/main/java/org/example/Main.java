@@ -17,5 +17,6 @@ public class Main {
             // для вас, но вы всегда можете добавить еще, нажав <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+        System.out.println("Goodbay!");
     }
 }
