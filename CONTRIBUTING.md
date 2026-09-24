@@ -13,3 +13,4 @@ For major changes, please open an issue first to discuss
 Шаг 2. Внесите изменения и отправьте вашу ветку на GitHub.
 
 В новой ветке создайте файл CONTRIBUTING.md (после создания нажмите Add) и напишите в нём послание другим разработчикам. После этого сделайте Commit and Push с понятным сообщением, например: docs: Add contribution guide.
+В новой ветке создайте файл CONTRIBUTING.md (после создания нажмите Add) и напишите в нём послание другим разработчикам. После этого сделайте Commit and Push с понятным сообщением, например: docs: Add contribution guide.
